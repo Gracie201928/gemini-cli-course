@@ -31,3 +31,7 @@ http://localhost:3000
 ```
 
 You should now see the FoodSmash application running.
+
+
+
+
